@@ -1,0 +1,29 @@
+[{
+    "id_product": 100,
+    "product_name": "Ноутбук",
+    "price": 45600,
+    "imgProduct": "https://picsum.photos/id/180/200/200",
+    "imgCart": "https://picsum.photos/id/180/50/50"
+  },
+  {
+    "id_product": 200,
+    "product_name": "Смартфон",
+    "price": 4000,
+    "imgProduct": "https://picsum.photos/id/160/200/200",
+    "imgCart": "https://picsum.photos/id/160/50/50"
+  },
+  {
+    "id_product": 300,
+    "product_name": "Геймпад",
+    "price": 5500,
+    "imgProduct": "https://picsum.photos/id/96/200/200",
+    "imgCart": "https://picsum.photos/id/96/50/50"
+  },
+  {
+    "id_product": 2400,
+    "product_name": "Фотоаппарат",
+    "price": 3700,
+    "imgProduct": "https://picsum.photos/id/435/200/200",
+    "imgCart": "https://picsum.photos/id/435/50/50"
+  }
+]

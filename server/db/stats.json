@@ -1,0 +1,42 @@
+[
+    {
+        "Product_name": "Ноутбук",
+        "Action": "Changed data in cart",
+        "Time": "November 29th 2021, 7:32:32 pm"
+    },
+    {
+        "Product_name": "Смартфон",
+        "Action": "Changed data in cart",
+        "Time": "November 29th 2021, 7:32:32 pm"
+    },
+    {
+        "Product_name": "Смартфон",
+        "Action": "Changed data in cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    },
+    {
+        "Product_name": "Смартфон",
+        "Action": "Removed from cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    },
+    {
+        "Product_name": "Геймпад",
+        "Action": "Removed from cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    },
+    {
+        "Product_name": "Фотоаппарат",
+        "Action": "Removed from cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    },
+    {
+        "Product_name": "Ноутбук",
+        "Action": "Changed data in cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    },
+    {
+        "Product_name": "Ноутбук",
+        "Action": "Removed from cart",
+        "Time": "November 29th 2021, 7:32:35 pm"
+    }
+]
